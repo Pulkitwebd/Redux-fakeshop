@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Redux-fakeshop/static/css/main.1a8a0596.css",
+    "main.js": "/Redux-fakeshop/static/js/main.228435c6.js",
+    "index.html": "/Redux-fakeshop/index.html",
+    "main.1a8a0596.css.map": "/Redux-fakeshop/static/css/main.1a8a0596.css.map",
+    "main.228435c6.js.map": "/Redux-fakeshop/static/js/main.228435c6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1a8a0596.css",
+    "static/js/main.228435c6.js"
+  ]
+}
